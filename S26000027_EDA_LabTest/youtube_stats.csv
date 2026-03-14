@@ -1,0 +1,10 @@
+Metric,Value
+Nodes,1134890
+Edges,2987624
+Mean Degree,5.265045951590022
+Min Degree,1
+Max Degree,28754
+Median Degree,1.0
+Std Degree,50.754342910669784
+Density,4.639260713241579e-06
+Avg Clustering,0.08080227776187864
